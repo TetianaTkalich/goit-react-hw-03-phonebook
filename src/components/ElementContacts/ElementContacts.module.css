@@ -1,0 +1,25 @@
+.element {
+  display: flex;
+  align-items: baseline;
+  margin-top: 5px;
+}
+
+.name {
+  font-size: 15px;
+  font-weight: 600;
+  margin-right: 10px;
+
+}
+
+.tel {
+  margin-right: 10px;
+}
+
+.btnDelete {
+  padding: 2px 5px;
+  width: 60px;
+  margin-top: 20px;
+  border: 2px solid #b5b4b4;
+  border-radius: 5px;
+  background-color: white;
+}
